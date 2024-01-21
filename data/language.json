@@ -1,0 +1,12 @@
+{
+    "languages":[["af","Afrikaans"],["sq","Albanian"],["am","Amharic"],["ar","Arabic"],["bn","Bengali"],["ca","Catalan"],["zh","Chinese"],["hr","Croatian"],
+                 ["cs","Czech"],["da","Danish"],["nl","Dutch"],["en","English"],["et","Estonian"],["Filipino","fil"],["Finnish","fi"],["fr","French"],
+                 ["gl","Galician"],["ka","Georgian"],["de","German"],["gu","Gurajati"],["iw","Hebrew"],["hi","Hindi"],["hu","Hungarian"],["id","Indonesian"],
+                 ["it","Italian"],["ja","Japan"],["jv","Javanese"],["kn","Kannada"],["kk","kazakh"],["km","Khmer"],["ko","Korian"],["lo","Laos"],
+                 ["lv","Latvian"],["lt","Lithuanian"],["mk","Macedonian"],["ms","Malay"],["ml","Malayalam"],["mr","Marathi"],["mn","Mongolian"],["ne","Nepali"],
+                 ["no","Norwegian"],["fa","Persian"],["pl","Polish"],["pt","Portuguese"],["pa","Punjabi"],["ro","Romanian"],["ru","Russian"],["rw","Kinyawanda"],
+                 ["sr","Serbian"],["si","Sinhala"],["sl","Slovenian"],["ss","Swati"],["st","Sotho"],["es","Spanish"],["su","Sundanese"],["sw","Swahili"],
+                 ["sv","Swedish"],["ta","Tamil"],["te","Telugu"],["th","Thai"],["tn","Setsana"],["tr","Turkish"],["ts","Tsonga"],["uk","Ukrainian"],
+                 ["ur","Urdu"],["uz","Uzbek"],["ve","Venda"],["vi","Vietnamese"],["xh","IsiXhosa"],["zu","Zulu"]
+                ]
+}

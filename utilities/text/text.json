@@ -1,0 +1,11 @@
+{
+    "start":"**Hey ** {} 👋, I am speech recognition bot.",
+    "start_language":"To continue with this bot, you need to select the default language that the bot will use for transcribing audios.\n\n__Please select a language__:",
+    "set_language":"__Select language:__", 
+    "language_setted0":"__Successfully setted.__ \n\nYou can use /change_language to reset.",
+    "language_setted1":"__Successfully setted.__",
+    "wait_msg":"__Transcripting Audio Please wait.__",
+    "error_1":"⚠️ **Media unsupported.** \n\n__Please send voice and Audio media only.__",
+    "error_2":"⚠️ **Unknown message.** \n\n__I can't Transcript the voice you sent. Send me a good quality Audio or change the language to the voice language.__",
+    "error_3":"⚠️ **Unknown language.**\n\n __I got Unknown language and setted the default language to English.__"
+}

@@ -1,0 +1,8 @@
+requests
+pyrogram
+speechrecognition
+tgcrypto
+numpy
+audiofile
+pymongo
+git+https://github.com/Ripeey/Conversation-Pyrogram
