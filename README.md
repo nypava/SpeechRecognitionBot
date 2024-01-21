@@ -8,7 +8,8 @@
 
 ## 🗃️ Installation & Setup
 ```
-git clone https://github.com/NYDEV0/speechRecognitionBot
+git clone https://github.com/NYDEV0/SpeechRecognitionBot
+cd SpeechRecognitionBot
 pip install -r requirements.txt
 ```
 In config.py file configure with your own data. 
